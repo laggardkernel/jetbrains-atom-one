@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report
 title: ''
 labels: ''
-assignees: jontaydev
+assignees: laggardkernel
 
 ---
 
@@ -12,6 +12,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Clone this repository
 2. Open this file
 3. Select this text..

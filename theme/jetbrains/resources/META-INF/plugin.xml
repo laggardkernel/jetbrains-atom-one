@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>atom-one</id>
-  <name>Atom One Theme</name>
+  <id>atom-one-lk</id>
+  <name>Atom One Theme (LK)</name>
   <vendor url="https://subtheme.dev">Subtheme</vendor>
-  <version>1.5</version>
+  <version>1.5-r1</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>

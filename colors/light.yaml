@@ -1,6 +1,6 @@
 light:
   id: light
-  name: Atom One Light
+  name: Atom One Light (LK)
   colors:
     red_1: "#e06c75"
     orange_1: "#d19a66"
